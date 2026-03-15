@@ -1,1 +1,973 @@
+hello
+Press Ctrl+C to stop.
+Left Hand: ['60', '587', '60', '62', '597', '0', '0']
+Right Hand: ['13', '17', '9', '10', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['66', '594', '59', '60', '595', '0', '0']
+Right Hand: ['11', '15', '6', '10', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['63', '594', '60', '80', '596', '0', '0']
+Right Hand: ['12', '17', '8', '12', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['62', '591', '59', '59', '585', '0', '0']
+Right Hand: ['13', '16', '13', '10', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['60', '594', '59', '61', '600', '0', '0']
+Right Hand: ['13', '19', '8', '13', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '584', '61', '63', '583', '0', '0']
+Right Hand: ['11', '15', '3', '11', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '572', '63', '65', '579', '0', '0']
+Right Hand: ['8', '22', '10', '12', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '573', '62', '62', '583', '0', '0']
+Right Hand: ['10', '21', '11', '14', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '581', '63', '64', '581', '0', '0']
+Right Hand: ['13', '20', '10', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '587', '61', '62', '583', '0', '0']
+Right Hand: ['12', '21', '8', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '588', '64', '62', '579', '0', '0']
+Right Hand: ['8', '14', '17', '10', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '581', '60', '59', '583', '0', '0']
+Right Hand: ['8', '20', '9', '16', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '587', '57', '64', '582', '0', '0']
+Right Hand: ['11', '18', '9', '10', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['64', '583', '60', '64', '580', '0', '0']
+Right Hand: ['8', '17', '13', '7', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['66', '580', '64', '65', '577', '0', '0']
+Right Hand: ['11', '17', '12', '13', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '581', '62', '61', '572', '0', '0']
+Right Hand: ['9', '16', '11', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '573', '63', '63', '581', '0', '0']
+Right Hand: ['13', '20', '9', '8', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '575', '62', '63', '579', '0', '0']
+Right Hand: ['11', '18', '9', '11', '439', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['64', '577', '64', '63', '575', '0', '0']
+Right Hand: ['12', '18', '7', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '577', '64', '65', '595', '0', '0']
+Right Hand: ['9', '18', '11', '10', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '567', '63', '64', '573', '0', '0']
+Right Hand: ['14', '19', '10', '11', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '577', '68', '61', '577', '0', '0']
+Right Hand: ['10', '20', '15', '11', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '575', '63', '65', '573', '0', '0']
+Right Hand: ['10', '19', '9', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '575', '64', '63', '571', '0', '0']
+Right Hand: ['9', '20', '11', '10', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '569', '65', '63', '577', '0', '0']
+Right Hand: ['12', '21', '13', '12', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '577', '62', '63', '575', '0', '0']
+Right Hand: ['11', '18', '9', '13', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '579', '65', '57', '579', '0', '0']
+Right Hand: ['10', '18', '9', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '575', '60', '62', '572', '0', '0']
+Right Hand: ['11', '13', '7', '14', '439', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '576', '63', '61', '569', '0', '0']
+Right Hand: ['10', '23', '10', '11', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '577', '63', '66', '569', '0', '0']
+Right Hand: ['11', '18', '11', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '578', '66', '67', '576', '0', '0']
+Right Hand: ['13', '17', '15', '11', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '579', '62', '63', '577', '0', '0']
+Right Hand: ['19', '16', '11', '10', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '577', '64', '64', '573', '0', '0']
+Right Hand: ['15', '15', '11', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '584', '57', '61', '590', '0', '0']
+Right Hand: ['11', '18', '11', '12', '446', '0', '0']
+Logged row with gesture: ''
+Right Hand: ['11', '18', '11', '12', '446', '0', '0']
+Logged row with gesture: ''
+Logged row with gesture: ''
+Left Hand: ['70', '580', '60', '62', '576', '0', '0']
+Right Hand: ['11', '15', '10', '10', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '571', '55', '64', '567', '0', '0']
+
+Logging stopped by user.
+Exception in thread Thread-1 (input_thread):
+PS C:\Users\gouri\OneDrive\Documents\PlatformIO\Projects\ultrasonic>
+
+
+
+
+
+
+
+
+
+
+                                                                   > & C:/Users/gouri/AppData/Local/Programs/Python/Python313/python.exe c:/Users/gouri/OneDrive/Documents/PlatformIO/Projects/ultrasonic/src/dual_hand_data_logger.py
+Listening on ports 8888 (Right) and 8889 (Left)...
+good_morning
+Press Ctrl+C to stop.
+Left Hand: ['79', '581', '60', '62', '579', '0', '0']
+Right Hand: ['12', '19', '9', '13', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '579', '60', '64', '585', '0', '0']
+Right Hand: ['11', '18', '8', '11', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['63', '609', '58', '60', '608', '0', '0']
+Right Hand: ['12', '30', '10', '10', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '581', '54', '62', '585', '0', '0']
+Right Hand: ['12', '12', '7', '7', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '588', '56', '62', '591', '0', '0']
+Right Hand: ['12', '10', '6', '6', '452', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '591', '59', '66', '587', '0', '0']
+Right Hand: ['13', '10', '2', '6', '453', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['66', '592', '57', '65', '588', '0', '0']
+Right Hand: ['13', '6', '3', '7', '454', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '587', '58', '64', '590', '0', '0']
+Right Hand: ['9', '11', '4', '4', '454', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['65', '584', '53', '64', '586', '0', '0']
+Right Hand: ['11', '9', '6', '5', '454', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['65', '589', '57', '65', '588', '0', '0']
+Right Hand: ['11', '12', '7', '10', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['66', '588', '63', '79', '587', '0', '0']
+Right Hand: ['13', '19', '9', '12', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['75', '574', '70', '62', '575', '0', '0']
+Right Hand: ['13', '20', '10', '13', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['74', '573', '68', '64', '574', '0', '0']
+Right Hand: ['10', '15', '9', '11', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '568', '70', '65', '573', '0', '0']
+Right Hand: ['11', '21', '9', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '566', '63', '66', '575', '0', '0']
+Right Hand: ['10', '19', '10', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '575', '67', '70', '571', '0', '0']
+Right Hand: ['11', '22', '12', '11', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '574', '69', '64', '575', '0', '0']
+Right Hand: ['11', '17', '14', '12', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '589', '67', '61', '577', '0', '0']
+Right Hand: ['11', '20', '9', '15', '445', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['67', '571', '68', '65', '576', '0', '0']
+Right Hand: ['12', '19', '12', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '578', '67', '69', '571', '0', '0']
+Right Hand: ['13', '20', '10', '10', '439', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '577', '66', '63', '575', '0', '0']
+Right Hand: ['11', '17', '10', '13', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '567', '67', '69', '566', '0', '0']
+Right Hand: ['11', '18', '11', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '572', '66', '65', '574', '0', '0']
+Right Hand: ['15', '12', '6', '7', '450', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '580', '64', '68', '576', '0', '0']
+Right Hand: ['12', '11', '3', '8', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '570', '65', '66', '576', '0', '0']
+Right Hand: ['13', '10', '6', '7', '451', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '573', '65', '65', '574', '0', '0']
+Right Hand: ['12', '9', '6', '6', '450', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '563', '65', '63', '575', '0', '0']
+Right Hand: ['13', '10', '9', '7', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '565', '68', '62', '575', '0', '0']
+Right Hand: ['12', '18', '9', '10', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '573', '66', '67', '573', '0', '0']
+Right Hand: ['14', '17', '9', '9', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '576', '62', '67', '573', '0', '0']
+Right Hand: ['12', '21', '17', '13', '442', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '575', '66', '68', '575', '0', '0']
+Right Hand: ['2', '22', '14', '15', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '566', '66', '65', '575', '0', '0']
+Right Hand: ['12', '22', '15', '16', '442', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '575', '70', '67', '567', '0', '0']
+Right Hand: ['12', '18', '12', '21', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '573', '66', '65', '575', '0', '0']
+Right Hand: ['12', '14', '9', '11', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '580', '65', '66', '579', '0', '0']
+Right Hand: ['13', '11', '4', '8', '452', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '577', '63', '67', '568', '0', '0']
+Right Hand: ['12', '11', '2', '7', '452', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '574', '66', '62', '573', '0', '0']
+Right Hand: ['13', '7', '4', '4', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '565', '65', '66', '575', '0', '0']
+Right Hand: ['7', '9', '5', '6', '453', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '575', '62', '60', '567', '0', '0']
+Right Hand: ['12', '17', '17', '15', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '570', '64', '65', '578', '0', '0']
+Right Hand: ['13', '21', '12', '12', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '564', '65', '66', '571', '0', '0']
+Right Hand: ['14', '20', '14', '12', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '579', '68', '71', '572', '0', '0']
+Right Hand: ['12', '22', '14', '19', '439', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '570', '66', '66', '570', '0', '0']
+Right Hand: ['12', '20', '10', '14', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '577', '64', '66', '576', '0', '0']
+Right Hand: ['13', '16', '10', '9', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '571', '61', '65', '575', '0', '0']
+Right Hand: ['11', '8', '19', '7', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '570', '61', '62', '578', '0', '0']
+Right Hand: ['11', '8', '4', '5', '452', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '575', '64', '67', '577', '0', '0']
+Right Hand: ['11', '11', '3', '5', '453', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '576', '64', '66', '573', '0', '0']
+Right Hand: ['13', '9', '6', '5', '451', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '567', '65', '67', '575', '0', '0']
+Right Hand: ['11', '8', '6', '8', '453', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '574', '61', '67', '569', '0', '0']
+Right Hand: ['13', '11', '4', '5', '450', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '573', '64', '66', '573', '0', '0']
+Right Hand: ['10', '5', '6', '7', '453', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '576', '61', '66', '575', '0', '0']
+Right Hand: ['9', '11', '8', '3', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '576', '63', '67', '578', '0', '0']
+Right Hand: ['12', '18', '5', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '575', '64', '66', '573', '0', '0']
+Right Hand: ['13', '22', '16', '13', '440', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '578', '68', '67', '570', '0', '0']
+Right Hand: ['13', '19', '7', '11', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '573', '62', '65', '568', '0', '0']
+Right Hand: ['14', '20', '16', '14', '439', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '595', '67', '67', '575', '0', '0']
+Right Hand: ['11', '20', '11', '9', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '574', '64', '65', '575', '0', '0']
+Right Hand: ['12', '17', '9', '10', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '582', '61', '64', '580', '0', '0']
+Right Hand: ['11', '12', '9', '13', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '580', '61', '62', '580', '0', '0']
+Right Hand: ['13', '16', '9', '14', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '579', '60', '61', '581', '1', '0']
+Right Hand: ['10', '20', '10', '10', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '584', '60', '63', '580', '0', '0']
+Right Hand: ['11', '17', '9', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '592', '60', '60', '590', '0', '0']
+Right Hand: ['13', '13', '10', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '577', '67', '87', '576', '0', '0']
+Right Hand: ['0', '21', '8', '10', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '585', '68', '82', '583', '0', '0']
+Right Hand: ['13', '18', '10', '10', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['75', '573', '67', '62', '569', '0', '0']
+Right Hand: ['15', '17', '11', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['77', '575', '68', '62', '571', '0', '0']
+Right Hand: ['11', '19', '10', '10', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['78', '576', '66', '64', '573', '0', '0']
+Right Hand: ['12', '20', '10', '19', '439', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['77', '574', '68', '60', '580', '0', '0']
+Right Hand: ['13', '23', '9', '10', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['78', '569', '68', '60', '573', '0', '0']
+Right Hand: ['10', '17', '10', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['76', '568', '67', '65', '571', '0', '0']
+Right Hand: ['10', '20', '9', '14', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['78', '572', '65', '60', '576', '0', '0']
+Right Hand: ['10', '16', '8', '14', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['80', '574', '64', '64', '573', '0', '0']
+Right Hand: ['11', '17', '9', '10', '438', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['79', '578', '66', '63', '576', '0', '0']
+Right Hand: ['11', '22', '11', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['77', '578', '64', '64', '576', '0', '0']
+Right Hand: ['10', '19', '9', '11', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '578', '65', '63', '574', '0', '0']
+Right Hand: ['11', '19', '9', '9', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '578', '64', '62', '575', '0', '0']
+Right Hand: ['11', '19', '7', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['77', '582', '68', '63', '579', '0', '0']
+Right Hand: ['13', '19', '9', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['77', '584', '68', '63', '582', '0', '0']
+Right Hand: ['13', '20', '9', '10', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['77', '581', '66', '65', '581', '0', '0']
+Right Hand: ['11', '19', '9', '9', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['76', '583', '64', '64', '582', '0', '0']
+Right Hand: ['11', '18', '10', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['79', '582', '66', '64', '574', '0', '0']
+Right Hand: ['10', '10', '8', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '584', '65', '63', '578', '0', '0']
+Right Hand: ['12', '19', '11', '9', '439', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['79', '577', '67', '64', '580', '0', '0']
+Right Hand: ['11', '15', '10', '9', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['78', '580', '61', '57', '578', '0', '0']
+Right Hand: ['12', '18', '9', '11', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '585', '63', '69', '586', '0', '0']
+Right Hand: ['13', '18', '9', '10', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '584', '64', '63', '585', '0', '0']
+Right Hand: ['13', '18', '9', '8', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '576', '65', '63', '582', '0', '0']
+Right Hand: ['12', '17', '10', '9', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '576', '64', '64', '587', '0', '0']
+Right Hand: ['11', '20', '11', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '584', '63', '67', '585', '0', '0']
+Right Hand: ['11', '15', '10', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '578', '64', '63', '584', '0', '0']
+Right Hand: ['12', '16', '7', '13', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '586', '61', '63', '583', '0', '0']
+Right Hand: ['11', '19', '8', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '584', '62', '63', '583', '0', '0']
+Right Hand: ['12', '21', '10', '11', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '583', '62', '64', '583', '0', '0']
+Right Hand: ['11', '17', '10', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '584', '77', '65', '585', '0', '0']
+Right Hand: ['12', '19', '9', '8', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '586', '61', '65', '584', '0', '0']
+Right Hand: ['12', '17', '10', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '581', '69', '62', '583', '0', '0']
+Right Hand: ['13', '18', '10', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '572', '64', '63', '578', '0', '0']
+Right Hand: ['13', '22', '10', '11', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '582', '64', '61', '583', '0', '0']
+Right Hand: ['11', '16', '10', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '581', '59', '65', '584', '0', '0']
+Right Hand: ['12', '18', '8', '13', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '577', '61', '60', '581', '0', '0']
+Right Hand: ['12', '21', '11', '10', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '583', '65', '63', '582', '0', '0']
+Right Hand: ['11', '17', '11', '9', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '585', '58', '64', '581', '0', '0']
+Right Hand: ['12', '15', '11', '12', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '586', '57', '64', '584', '0', '0']
+Right Hand: ['11', '14', '10', '9', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '587', '61', '61', '589', '0', '0']
+Right Hand: ['12', '20', '10', '15', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '585', '66', '63', '585', '0', '0']
+Right Hand: ['11', '18', '14', '8', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '581', '61', '61', '577', '0', '0']
+Right Hand: ['10', '19', '8', '10', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '588', '65', '64', '584', '0', '0']
+Right Hand: ['11', '18', '8', '12', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '587', '62', '62', '591', '0', '0']
+Right Hand: ['12', '22', '11', '7', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['76', '586', '62', '63', '589', '0', '0']
+Right Hand: ['11', '18', '12', '9', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '586', '65', '59', '584', '0', '0']
+Right Hand: ['11', '15', '10', '10', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '585', '62', '63', '585', '0', '0']
+Right Hand: ['13', '20', '9', '10', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '583', '62', '58', '586', '0', '0']
+Right Hand: ['12', '15', '10', '10', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '585', '64', '63', '585', '0', '0']
+Right Hand: ['13', '19', '11', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '583', '65', '63', '585', '0', '0']
+Right Hand: ['11', '19', '8', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '586', '62', '64', '579', '0', '0']
+Right Hand: ['12', '30', '13', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '583', '62', '77', '576', '0', '0']
+Right Hand: ['11', '19', '15', '11', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '582', '62', '64', '583', '0', '0']
+Right Hand: ['11', '19', '10', '10', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '581', '61', '64', '580', '0', '0']
+Right Hand: ['13', '20', '9', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '586', '61', '66', '587', '0', '0']
+Right Hand: ['13', '20', '9', '11', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '586', '61', '66', '587', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '586', '61', '66', '587', '0', '0']
+Left Hand: ['72', '586', '61', '66', '587', '0', '0']
+Right Hand: ['11', '24', '9', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '586', '61', '66', '584', '0', '0']
+Left Hand: ['71', '586', '61', '66', '584', '0', '0']
+
+Logging stopped by user.Exception in thread Thread-1 (input_thread):
+
+PS C:\Users\gouri\OneDrive\Documents\PlatformIO\Projects\ultrasonic>
+
+
+
+
+
+
+
+
+
+
+                                                                   > & C:/Users/gouri/AppData/Local/Programs/Python/Python313/python.exe c:/Users/gouri/OneDrive/Documents/PlatformIO/Projects/ultrasonic/src/dual_hand_data_logger.py
+Listening on ports 8888 (Right) and 8889 (Left)...
+my_name_is_gouri
+Press Ctrl+C to stop.
+Left Hand: ['75', '575', '64', '60', '573', '0', '0']
+Right Hand: ['12', '19', '9', '12', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '585', '64', '64', '578', '0', '0']
+Right Hand: ['11', '18', '8', '11', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '596', '57', '65', '591', '0', '0']
+Right Hand: ['11', '15', '6', '6', '453', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '591', '61', '61', '588', '0', '0']
+Right Hand: ['12', '19', '6', '7', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '585', '59', '61', '585', '0', '0']
+Right Hand: ['9', '18', '12', '8', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '582', '59', '63', '585', '0', '0']
+Right Hand: ['11', '17', '12', '4', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '592', '58', '64', '578', '0', '0']
+Right Hand: ['10', '18', '7', '10', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '584', '59', '64', '585', '0', '0']
+Right Hand: ['11', '18', '13', '5', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '583', '60', '63', '585', '0', '0']
+Right Hand: ['11', '18', '12', '10', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['65', '603', '52', '56', '604', '0', '0']
+Right Hand: ['12', '8', '5', '8', '452', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['49', '723', '27', '31', '727', '1', '1']
+Right Hand: ['13', '15', '8', '9', '448', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['56', '661', '32', '45', '660', '0', '0']
+Right Hand: ['11', '18', '2', '5', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['75', '561', '66', '64', '565', '0', '0']
+Right Hand: ['11', '15', '8', '7', '451', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '570', '63', '64', '570', '0', '0']
+Right Hand: ['11', '19', '8', '8', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '569', '67', '66', '568', '0', '0']
+Right Hand: ['13', '21', '7', '7', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '562', '64', '63', '567', '0', '0']
+Right Hand: ['13', '10', '4', '8', '442', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['75', '569', '80', '61', '562', '0', '0']
+Right Hand: ['12', '14', '5', '9', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '565', '71', '66', '564', '0', '0']
+Right Hand: ['12', '26', '2', '7', '440', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '561', '72', '63', '565', '1', '0']
+Right Hand: ['12', '21', '8', '7', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '583', '62', '59', '580', '0', '0']
+Right Hand: ['12', '16', '10', '8', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '611', '48', '56', '614', '0', '0']
+Right Hand: ['12', '17', '7', '8', '452', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '616', '48', '57', '614', '0', '0']
+Right Hand: ['9', '22', '6', '7', '448', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '605', '47', '58', '611', '0', '0']
+Right Hand: ['10', '14', '9', '8', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '612', '49', '60', '611', '0', '0']
+Right Hand: ['3', '23', '13', '22', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '609', '49', '60', '610', '0', '0']
+Right Hand: ['10', '15', '12', '7', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '608', '53', '61', '603', '0', '0']
+Right Hand: ['11', '21', '9', '7', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '569', '61', '61', '581', '0', '0']
+Right Hand: ['10', '20', '6', '6', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['81', '564', '64', '61', '569', '0', '0']
+Right Hand: ['11', '19', '6', '6', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '576', '62', '61', '569', '0', '0']
+Right Hand: ['11', '22', '13', '7', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '572', '65', '60', '575', '0', '0']
+Right Hand: ['11', '13', '8', '6', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['41', '723', '29', '38', '721', '1', '1']
+Right Hand: ['1', '13', '8', '7', '449', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '617', '42', '60', '612', '0', '0']
+Right Hand: ['14', '19', '8', '8', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '574', '64', '65', '570', '0', '0']
+Right Hand: ['12', '19', '5', '7', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['78', '563', '64', '58', '564', '0', '0']
+Right Hand: ['12', '26', '7', '8', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['75', '562', '69', '64', '559', '0', '0']
+Right Hand: ['10', '19', '7', '8', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '570', '70', '64', '566', '0', '0']
+Right Hand: ['10', '20', '4', '7', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['75', '584', '55', '59', '584', '0', '0']
+Right Hand: ['14', '7', '4', '8', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['75', '584', '61', '56', '578', '0', '0']
+Right Hand: ['12', '22', '7', '8', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '567', '72', '59', '568', '1', '0']
+Right Hand: ['11', '31', '4', '7', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '586', '57', '62', '585', '0', '0']
+Right Hand: ['12', '17', '5', '9', '441', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['68', '609', '52', '57', '607', '0', '0']
+Right Hand: ['12', '19', '7', '9', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['68', '611', '48', '63', '614', '0', '0']
+Right Hand: ['14', '20', '8', '6', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '608', '50', '56', '608', '0', '0']
+Right Hand: ['8', '17', '12', '5', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '612', '51', '57', '600', '0', '0']
+Right Hand: ['12', '22', '12', '7', '450', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '605', '51', '60', '605', '0', '0']
+Right Hand: ['12', '18', '12', '7', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '594', '55', '62', '594', '0', '0']
+Right Hand: ['11', '19', '8', '9', '450', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '581', '63', '62', '581', '0', '0']
+Right Hand: ['13', '23', '9', '7', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['62', '655', '36', '41', '654', '0', '0']
+Right Hand: ['14', '9', '7', '6', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['44', '711', '28', '41', '713', '0', '0']
+Right Hand: ['11', '12', '7', '2', '448', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['63', '654', '36', '51', '653', '0', '0']
+Right Hand: ['12', '19', '6', '7', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '568', '63', '59', '565', '0', '0']
+Right Hand: ['12', '25', '6', '7', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['78', '562', '64', '65', '558', '0', '0']
+Right Hand: ['12', '22', '8', '7', '455', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['76', '558', '66', '64', '563', '0', '0']
+Right Hand: ['10', '21', '11', '8', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '569', '63', '66', '564', '0', '0']
+Right Hand: ['13', '9', '6', '7', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '570', '65', '58', '569', '0', '0']
+Right Hand: ['12', '17', '6', '7', '445', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '565', '70', '68', '562', '0', '0']
+Right Hand: ['13', '21', '5', '8', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '579', '58', '57', '576', '0', '0']
+Right Hand: ['12', '20', '5', '8', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '584', '53', '61', '593', '0', '0']
+Right Hand: ['10', '22', '13', '4', '445', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['75', '586', '57', '62', '586', '0', '0']
+Right Hand: ['11', '19', '11', '8', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '582', '59', '61', '582', '0', '0']
+Right Hand: ['20', '19', '12', '6', '452', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '587', '54', '62', '580', '0', '0']
+Right Hand: ['11', '18', '6', '5', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '583', '59', '59', '576', '0', '0']
+Right Hand: ['15', '19', '8', '7', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['66', '645', '39', '46', '642', '0', '0']
+Right Hand: ['10', '10', '6', '6', '454', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['64', '667', '37', '44', '670', '0', '0']
+Right Hand: ['2', '13', '8', '8', '450', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['49', '712', '33', '43', '711', '1', '0']
+Right Hand: ['1', '16', '7', '5', '451', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['64', '666', '38', '44', '664', '1', '0']
+Right Hand: ['12', '20', '8', '9', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '571', '62', '61', '568', '0', '0']
+Right Hand: ['14', '21', '5', '6', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '572', '62', '64', '565', '0', '0']
+Right Hand: ['11', '21', '6', '9', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '575', '60', '61', '576', '0', '0']
+Right Hand: ['11', '15', '8', '8', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '565', '65', '62', '567', '0', '0']
+Right Hand: ['13', '20', '7', '10', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '566', '64', '59', '566', '0', '0']
+Right Hand: ['13', '22', '6', '8', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '565', '66', '63', '569', '0', '0']
+Right Hand: ['11', '21', '8', '7', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '568', '63', '62', '568', '0', '0']
+Right Hand: ['11', '12', '4', '6', '444', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '570', '62', '62', '579', '0', '0']
+Right Hand: ['13', '14', '9', '14', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '573', '62', '61', '577', '0', '0']
+Right Hand: ['14', '11', '4', '10', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '577', '64', '61', '573', '0', '0']
+Right Hand: ['12', '17', '8', '8', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '571', '67', '61', '575', '1', '0']
+Right Hand: ['12', '32', '7', '10', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '567', '71', '63', '569', '0', '0']
+Right Hand: ['13', '17', '11', '10', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '553', '73', '63', '564', '0', '0']
+Right Hand: ['12', '18', '7', '8', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '599', '56', '59', '601', '0', '0']
+Right Hand: ['12', '19', '311', '8', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['68', '601', '51', '60', '602', '0', '0']
+Right Hand: ['11', '22', '383', '6', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '593', '52', '61', '597', '0', '0']
+Right Hand: ['11', '18', '402', '6', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '596', '56', '61', '597', '0', '0']
+Right Hand: ['10', '24', '385', '6', '440', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['66', '598', '56', '60', '590', '0', '0']
+Right Hand: ['14', '18', '410', '8', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '586', '54', '63', '585', '0', '0']
+Right Hand: ['11', '19', '379', '6', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '573', '60', '73', '581', '0', '0']
+Right Hand: ['12', '15', '390', '8', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '590', '59', '56', '590', '0', '0']
+Right Hand: ['12', '8', '397', '8', '453', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['45', '715', '23', '32', '713', '0', '0']
+Right Hand: ['9', '2', '388', '5', '450', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['49', '710', '25', '33', '707', '1', '0']
+Right Hand: ['10', '8', '366', '6', '452', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['61', '669', '30', '36', '672', '0', '0']
+Right Hand: ['11', '23', '405', '6', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '571', '62', '75', '569', '0', '0']
+Right Hand: ['13', '20', '400', '8', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '568', '63', '64', '569', '0', '0']
+Right Hand: ['13', '22', '415', '7', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['75', '570', '65', '63', '565', '0', '0']
+Right Hand: ['14', '19', '394', '7', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '567', '66', '64', '571', '0', '0']
+Right Hand: ['12', '19', '396', '10', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '572', '65', '62', '568', '0', '0']
+Right Hand: ['2', '27', '375', '11', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['75', '567', '63', '63', '570', '0', '0']
+Right Hand: ['0', '21', '417', '12', '453', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '568', '66', '62', '560', '0', '0']
+Right Hand: ['0', '19', '353', '10', '449', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['74', '563', '66', '62', '569', '0', '0']
+Right Hand: ['2', '16', '394', '12', '449', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '569', '62', '62', '571', '0', '0']
+Right Hand: ['13', '22', '386', '12', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '562', '71', '62', '564', '0', '0']
+Right Hand: ['12', '22', '392', '8', '445', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '554', '73', '61', '561', '1', '0']
+Right Hand: ['12', '20', '356', '10', '441', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '568', '59', '60', '577', '0', '0']
+Right Hand: ['12', '16', '401', '11', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['78', '584', '53', '58', '596', '0', '0']
+Right Hand: ['11', '18', '408', '7', '449', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['64', '618', '46', '58', '613', '0', '0']
+Right Hand: ['12', '22', '410', '10', '445', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '598', '45', '54', '607', '0', '0']
+Right Hand: ['11', '18', '412', '5', '445', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '598', '51', '59', '605', '0', '0']
+Right Hand: ['14', '26', '417', '7', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['67', '623', '43', '54', '617', '0', '0']
+Right Hand: ['10', '22', '357', '8', '443', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['68', '557', '71', '90', '558', '0', '0']
+Right Hand: ['11', '22', '401', '8', '450', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '550', '76', '69', '552', '1', '0']
+Right Hand: ['13', '24', '402', '7', '448', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '556', '71', '66', '555', '0', '0']
+Right Hand: ['13', '22', '411', '5', '441', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['74', '564', '69', '65', '564', '1', '0']
+Right Hand: ['3', '26', '372', '9', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '558', '69', '64', '563', '1', '0']
+Right Hand: ['4', '30', '370', '10', '448', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['81', '560', '69', '63', '562', '1', '0']
+Right Hand: ['12', '20', '413', '12', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '562', '65', '66', '564', '1', '0']
+Right Hand: ['9', '14', '395', '8', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '561', '72', '66', '562', '1', '0']
+Right Hand: ['12', '23', '396', '7', '450', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '557', '70', '65', '564', '1', '0']
+Right Hand: ['10', '19', '394', '7', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '563', '72', '64', '563', '0', '0']
+Right Hand: ['11', '17', '358', '8', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '563', '69', '64', '568', '0', '0']
+Right Hand: ['11', '19', '409', '6', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '569', '69', '64', '563', '0', '0']
+Right Hand: ['10', '20', '355', '6', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '566', '66', '62', '565', '0', '0']
+Right Hand: ['11', '20', '354', '6', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '568', '68', '60', '564', '0', '0']
+Right Hand: ['12', '20', '373', '7', '446', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '567', '65', '64', '567', '0', '0']
+Right Hand: ['12', '18', '415', '6', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['74', '571', '65', '62', '566', '0', '0']
+Right Hand: ['12', '15', '389', '7', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '585', '56', '56', '597', '0', '0']
+Right Hand: ['11', '10', '393', '6', '451', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['47', '712', '27', '34', '711', '0', '0']
+Right Hand: ['11', '12', '411', '8', '453', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['52', '716', '28', '33', '715', '1', '0']
+Right Hand: ['14', '13', '388', '16', '451', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['52', '700', '29', '35', '701', '1', '0']
+Right Hand: ['13', '13', '408', '7', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '580', '56', '64', '579', '0', '0']
+Right Hand: ['11', '20', '398', '7', '449', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['75', '555', '68', '67', '556', '0', '0']
+Right Hand: ['12', '22', '366', '8', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['79', '554', '66', '60', '557', '0', '0']
+Right Hand: ['12', '20', '408', '12', '450', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '566', '66', '64', '564', '0', '0']
+Right Hand: ['14', '22', '401', '6', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '553', '67', '66', '564', '0', '0']
+Right Hand: ['10', '21', '387', '6', '448', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '568', '67', '64', '567', '0', '0']
+Right Hand: ['13', '16', '407', '8', '450', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '566', '66', '71', '567', '0', '0']
+Right Hand: ['12', '11', '386', '8', '449', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['73', '565', '68', '64', '568', '0', '0']
+Right Hand: ['14', '14', '412', '7', '444', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['69', '568', '64', '64', '560', '0', '0']
+Right Hand: ['5', '12', '417', '8', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '565', '67', '65', '557', '0', '0']
+Right Hand: ['12', '15', '399', '8', '447', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['75', '564', '63', '62', '567', '0', '0']
+Right Hand: ['16', '16', '402', '2', '448', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['76', '568', '63', '64', '565', '0', '0']
+Right Hand: ['12', '21', '408', '7', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['72', '560', '71', '63', '563', '1', '0']
+Right Hand: ['11', '22', '395', '8', '449', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['70', '557', '74', '63', '561', '1', '0']
+Right Hand: ['11', '20', '348', '7', '441', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['72', '555', '73', '64', '560', '1', '0']
+Right Hand: ['12', '20', '316', '7', '446', '0', '1']
+Logged row with gesture: ''
+Left Hand: ['71', '559', '74', '63', '560', '1', '0']
+Right Hand: ['11', '23', '402', '10', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['73', '589', '54', '59', '586', '0', '0']
+Right Hand: ['14', '22', '409', '8', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '587', '53', '61', '584', '0', '0']
+Right Hand: ['9', '16', '410', '13', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '582', '56', '64', '585', '0', '0']
+Right Hand: ['11', '16', '408', '22', '443', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '583', '56', '63', '583', '0', '0']
+Right Hand: ['11', '16', '411', '13', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['70', '580', '59', '67', '582', '0', '0']
+Right Hand: ['2', '20', '397', '12', '447', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['67', '585', '59', '63', '582', '0', '0']
+Right Hand: ['10', '18', '391', '10', '445', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['71', '582', '63', '59', '583', '0', '0']
+Right Hand: ['10', '18', '360', '12', '442', '0', '0']
+Logged row with gesture: ''
+Left Hand: ['69', '582', '55', '63', '584', '0', '0']
+Right Hand: ['13', '18', '406', '11', '445', '0', '0']
+Logged row with gesture: ''
+
+Logging stopped by user.Exception in thread Thread-1 (input_thread):
+
+PS C:\Users\gouri\OneDrive\Documents\PlatformIO\Projects\ultrasonic>
 
