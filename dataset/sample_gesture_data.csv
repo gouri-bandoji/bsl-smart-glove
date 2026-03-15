@@ -113,17 +113,8 @@ Left Hand: ['67', '571', '55', '64', '567', '0', '0']
 Logging stopped by user.
 Exception in thread Thread-1 (input_thread):
 PS C:\Users\gouri\OneDrive\Documents\PlatformIO\Projects\ultrasonic>
-
-
-
-
-
-
-
-
-
-
-                                                                   > & C:/Users/gouri/AppData/Local/Programs/Python/Python313/python.exe c:/Users/gouri/OneDrive/Documents/PlatformIO/Projects/ultrasonic/src/dual_hand_data_logger.py
+> & C:/Users/gouri/AppData/Local/Programs/Python/Python313/python.exe 
+c:/Users/gouri/OneDrive/Documents/PlatformIO/Projects/ultrasonic/src/dual_hand_data_logger.py
 Listening on ports 8888 (Right) and 8889 (Left)...
 good_morning
 Press Ctrl+C to stop.
@@ -500,16 +491,8 @@ Logging stopped by user.Exception in thread Thread-1 (input_thread):
 
 PS C:\Users\gouri\OneDrive\Documents\PlatformIO\Projects\ultrasonic>
 
-
-
-
-
-
-
-
-
-
-                                                                   > & C:/Users/gouri/AppData/Local/Programs/Python/Python313/python.exe c:/Users/gouri/OneDrive/Documents/PlatformIO/Projects/ultrasonic/src/dual_hand_data_logger.py
+ > & C:/Users/gouri/AppData/Local/Programs/Python/Python313/python.exe 
+c:/Users/gouri/OneDrive/Documents/PlatformIO/Projects/ultrasonic/src/dual_hand_data_logger.py
 Listening on ports 8888 (Right) and 8889 (Left)...
 my_name_is_gouri
 Press Ctrl+C to stop.
