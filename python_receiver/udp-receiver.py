@@ -8,8 +8,8 @@ import time
 # -----------------------
 UDP_IP = "0.0.0.0" # Listen on all available network
 interfaces
-RIGHT_HAND_PORT = 8888 # UDP port for right-hand glove data
-LEFT_HAND_PORT = 8889 # UDP port for left-hand glove data
+RIGHT_HAND_PORT = 4210 # UDP port for right-hand glove data
+LEFT_HAND_PORT = 4211 # UDP port for left-hand glove data
 OUTPUT_FILE = "bsl_gesture_log_with_imu.csv" # CSV file to
 store data
 # CSV header structure:
